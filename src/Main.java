@@ -1,4 +1,4 @@
-public class BonusMilesService {
+public class Main {
     public static void main(String[] args) {
         int price = 1000;
         int bonus = 20;
@@ -6,3 +6,4 @@ public class BonusMilesService {
         System.out.println(miles + " Количество бонусных миль ");
     }
 }
+
